@@ -1,4 +1,3 @@
-# apache-https
+# apache-https-flask
 
- sudo docker build -t apache-image .
- docker run -d --name apache2-container -p 443:443 apache-image
+ sudo docker compose up
