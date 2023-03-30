@@ -9,5 +9,5 @@ RUN a2ensite default-ssl.conf
 RUN a2enmod proxy
 RUN a2enmod proxy_http
 RUN a2enmod proxy_balancer
-RUN systemctl restart apache2
+RUN service apache2 restart
 EXPOSE 443
