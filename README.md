@@ -12,7 +12,7 @@
 <h2>Instalação e configuração</h2>
 <p>Clone este repositório em sua máquina local:</p>
 <div class="highlight highlight-source-shell">
-<pre><code>git clone https://github.com/danmat10/apache-https-flask.git/ <code></pre>
+<pre><code>git clone https://github.com/danmat10/apache-https-flask.git/ </code></pre>
 </div>
 <p>Acesse o diretório clonado:</p>
 <div class="highlight highlight-source-shell">
