@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Modelo de Deploy do Flask com Apache, Reverse Proxy e HTTPS</h1>
+<h1>Modelo de Deploy do Flask com Apache e Docker em HTTPS</h1>
 <p>Este repositório contém um modelo de deploy para uma aplicação Flask, usando o servidor web Apache como proxy reverso e HTTPS como protocolo de segurança.</p>
 <h2>Pré-requisitos</h2>
 <p>Antes de começar, você precisará ter os seguintes itens instalados em seu sistema:</p>
